@@ -70,3 +70,5 @@ print("Hello Mitch!")
 # type()	Returns the type of an object
 # vars()	Returns the __dict__ property of an object
 # zip()	Returns an iterator, from two or more iterators
+
+# halt&catch_fire() Returns you to the TV show
