@@ -1,3 +1,8 @@
+# This Python program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+# See the GNU General Public License for more details.
+
 # the print function <https://www.w3schools.com/python/ref_func_print.asp>
 print("Hello Mitch!")
 
