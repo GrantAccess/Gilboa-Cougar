@@ -1,4 +1,4 @@
-# From https://www.youtube.com/watch?v=vsLBErLWBhA
+# Thanks to the idea, From <https://www.youtube.com/watch?v=vsLBErLWBhA>
 # ----------------------------
 # run with $ python3 encrypt.py
 # A routine for python3
@@ -33,7 +33,8 @@ cipher_text = ""
 
 # loop for (every instance) each letter and space, in the message.
 for letter in plain_text:
-    index = chars.index(letter)
+    index = chars.index(letter)   # The index() method returns the position at the first occurrence of the specified value.
+                                     # see <https://www.w3schools.com/python/ref_list_index.asp>
     cipher_text += key[index]     # append the latest letter to the cipher-string
 
 print(f"original message : {plain_text}")
