@@ -1,7 +1,8 @@
 What is Python?
 Python is a widely-used, interpreted, object-oriented, and high-level programming
 language with dynamic semantics, used for general-purpose programming. It was
-created by Guido van Rossum, and first released on February 20, 1991.
+created by Guido van Rossum, <https://gvanrossum.github.io/> and first released on
+February 20, 1991.
 
 While you may know the python as a large snake, the name of the Python programming
 language comes from an old BBC television comedy sketch series called "Monty Python’s
