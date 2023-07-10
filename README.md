@@ -3,7 +3,7 @@ _Learning how useful Python can be_
 
 Referance Sources
 
-Raspberry Pi, Tricks, Hacks & Fixes: Volume 32
+Raspberry Pi Tricks Hacks & Fixes Vol 32 Winter 2018 2019
 
 ISBN 9-772046-274035-32
 
