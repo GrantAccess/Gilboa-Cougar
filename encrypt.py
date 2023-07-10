@@ -38,8 +38,8 @@ for letter in plain_text:
                                      # see <https://www.w3schools.com/python/ref_list_index.asp>
     cipher_text += key[index]     # append the latest letter to the cipher-string
 
-print(f"original message : {plain_text}")
-print(f"encrypted message: {cipher_text}")
+print(f"original message : {plain_text}")    # f-strings, format using {place} 
+print(f"encrypted message: {cipher_text}")    # <https://realpython.com/python-f-strings/#f-strings-a-new-and-improved-way-to-format-strings-in-python>
 
 #DECRYPT
 cipher_text = input("Enter a message to decrypt: ")
