@@ -9,6 +9,7 @@
 # Licence: Creative Commons (CC)
 #-------------------------------
 
+# get extended modules (OS dependant)
 import random
 import string
 
