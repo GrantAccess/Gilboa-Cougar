@@ -34,7 +34,7 @@ cipher_text = ""
 # loop for (every instance) each letter and space, in the message.
 for letter in plain_text:
     index = chars.index(letter)
-    cipher_text += key[index]
+    cipher_text += key[index]     # append the latest letter to the cipher-string
 
 print(f"original message : {plain_text}")
 print(f"encrypted message: {cipher_text}")
