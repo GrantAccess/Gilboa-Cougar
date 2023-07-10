@@ -1,6 +1,9 @@
 # Gilboa-Cougar
 _Learning how useful Python can be_
 
+How to get the python I use. My laptop PC uses Zorin Linux.
+"$ sudo apt-get update && sudo apt install python3 idle && sudo apt autoremove"
+
 Referance Sources
 
 Raspberry Pi Tricks Hacks & Fixes Vol 32 Winter 2018 2019
