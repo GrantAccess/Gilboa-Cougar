@@ -2,6 +2,7 @@
 _Learning how useful Python can be_
 
 How to get the python I use. My laptop PC uses Zorin Linux.
+
 "$ sudo apt-get update && sudo apt install python3 idle && sudo apt autoremove"
 
 Referance Sources
