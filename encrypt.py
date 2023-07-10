@@ -31,7 +31,7 @@ plain_text = input("Enter a message to encrypt: ")
 # This is where the cipher-text will be held.
 cipher_text = ""
 
-# loop for each letter and space, in the message.
+# loop for (every instance) each letter and space, in the message.
 for letter in plain_text:
     index = chars.index(letter)
     cipher_text += key[index]
